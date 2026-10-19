@@ -1,20 +1,66 @@
-This is your group repo for your final project for COGS108.
+# Weather Data Science — Large-Scale Climate Analysis
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
+[![Course](https://img.shields.io/badge/Course-UCSD_COGS_108-FFCD00?style=flat-square&logo=uc-san-diego&logoColor=black)](https://cogs108.github.io)
+[![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org)
 
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook). 
+A large-scale data science project analyzing weather patterns and climate trends, executed end-to-end through collaborative data collection, cleaning, exploratory analysis, and statistical modeling.
 
-This repository will be frozen on the final project due date. No further changes can be made after that time.
+---
 
-Your project proposal and final project will be graded based solely on the corresponding project notebooks in this repository.
+## 📌 Overview
 
-Template Jupyter notebooks have been included, with your group number replacing the XXX in the following file names. For each due date, make sure you have a notebook present in this repository by each due date with the following name (where XXX is replaced by your group number):
+This project was developed as a collaborative term project for **COGS 108: Data Science in Practice** at the **University of California, San Diego (UC San Diego)**:
 
-- `ProjectProposal_groupXXX.ipynb`
-- `DataCheckpoint_groupXXX.ipynb`
-- `EDACheckpoint_groupXXX.ipynb`
-- `FinalProject_groupXXX.ipynb`
+- **Large-Scale Scope:** Investigates multi-feature weather datasets to uncover meaningful meteorological patterns and trends.
+- **Academic Foundation:** Completed for UC San Diego's flagship data science curriculum, emphasizing rigorous data ethics, reproducible research, and statistical inference.
+- **Team Collaboration:** Designed and delivered collaboratively by a team of five data science students across structured project checkpoints.
 
-This is *your* repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all. 
+---
 
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+## 🔬 Project Workflow & Milestones
+
+The project lifecycle is documented sequentially across milestone notebooks:
+
+- **Proposal ([`ProjectProposal_Group017_SP25.ipynb`](file:///Users/thatchereames/Desktop/Programming/Projects/weather-data-science-project/ProjectProposal_Group017_SP25.ipynb)):** Problem formulation, research questions, hypothesis generation, and data ethics analysis.
+- **Data Checkpoint ([`DataCheckpoint_Group017_SP25.ipynb`](file:///Users/thatchereames/Desktop/Programming/Projects/weather-data-science-project/DataCheckpoint_Group017_SP25.ipynb)):** Large-scale dataset ingestion, tidying, missing value imputation, and pipeline standardization.
+- **EDA Checkpoint ([`EDACheckpoint_Group017_SP25.ipynb`](file:///Users/thatchereames/Desktop/Programming/Projects/weather-data-science-project/EDACheckpoint_Group017_SP25.ipynb)):** Exploratory data analysis, distribution profiling, and preliminary relationship mapping.
+- **Final Project ([`FinalProject_Group017_SP25.ipynb`](file:///Users/thatchereames/Desktop/Programming/Projects/weather-data-science-project/FinalProject_Group017_SP25.ipynb)):** Comprehensive report synthesizing statistical tests, modeling results, visualizations, and key takeaways.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Language:** Python 3.9+
+- **Environment:** Jupyter Notebook
+- **Data Wrangling:** pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn
+- **Modeling & Statistics:** scikit-learn, SciPy, statsmodels
+
+---
+
+## 👥 Team Members (Group 017)
+
+- **Thatcher Eames**
+- **Krrish Jain**
+- **Katie Ngo**
+- **Lavin Ma**
+- **Preity Singh**
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Ensure you have Python 3.9+ installed.
+
+### Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/thatchereames/weather-data-science-project.git
+cd weather-data-science-project
+
+# Install required packages
+pip install pandas numpy matplotlib 
