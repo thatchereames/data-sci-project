@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org)
 
-A large-scale data science project analyzing weather patterns and climate trends, executed end-to-end through collaborative data collection, cleaning, exploratory analysis, and statistical modeling.
+A large-scale data science research project analyzing weather patterns and climate trends, executed end-to-end through collaborative data collection, cleaning, exploratory analysis, and statistical modeling. Statistical sources were carefully examined and verified for accuracy. Many weeks of planning and research in team meetings led to the final findings report, located in the *Final Project* notebook file.
 
 ---
 
